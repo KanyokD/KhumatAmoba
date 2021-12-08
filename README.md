@@ -1,2 +1,0 @@
-# KhumatAmoba
-Amoba
